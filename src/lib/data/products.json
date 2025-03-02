@@ -1,0 +1,79 @@
+[
+    {
+        "id": "1",
+        "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/5f8d933c-cf48-4e82-ab80-bd9402fb7728/air-max-excee-shoe-gT5JVz.png",
+        "description": "Description for product 1",
+        "categories": ["electronics", "new"],
+        "price": 19.99
+    },
+    {
+        "id": "2",
+        "img": "https://media.cnn.com/api/v1/images/stellar/prod/nike-ultrafly-lead-cnnu.jpg?c=original",
+        "description": "Description for product 2",
+        "categories": ["furniture", "sale"],
+        "price": 299.99
+    },
+    {
+        "id": "3",
+        "img": "https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_2722%2Cy_2596/MjAzNDE2NDY2NzE0Nzk3NTQ5/lebron-nike.jpg",
+        "description": "Description for product 3",
+        "categories": ["books", "popular"],
+        "price": 12.5
+    },
+    {
+        "id": "4",
+        "img": "https://media.cnn.com/api/v1/images/stellar/prod/nike-motiva-lead-image-cnnu.jpg?c=16x9",
+        "description": "Description for product 4",
+        "categories": ["clothing", "men"],
+        "price": 49.95
+    },
+    {
+        "id": "5",
+        "img": "https://assets.adidas.com/images/w_940,f_auto,q_auto/17d74eea38bc41b7979eaf3b00ace32a_9366/HP7895_09_standard.jpg",
+        "description": "Description for product 5",
+        "categories": ["clothing", "women"],
+        "price": 59.99
+    },
+    {
+        "id": "6",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/run-adidas-running-shoes-65b13c3fe5b4a.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=768:*",
+        "description": "Description for product 6",
+        "categories": ["home", "decor"],
+        "price": 24.99
+    },
+    {
+        "id": "7",
+        "img": "https://5.imimg.com/data5/SELLER/Default/2022/12/NR/IL/RU/180363037/2989407288336277008-21744190419.jpg",
+        "description": "Description for product 7",
+        "categories": ["outdoors", "sports"],
+        "price": 89.99
+    },
+    {
+        "id": "8",
+        "img": "https://photos6.spartoo.pt/photos/212/21200964/21200964_1200_A.jpg",
+        "description": "Description for product 8",
+        "categories": ["beauty", "health"],
+        "price": 15.75
+    },
+    {
+        "id": "9",
+        "img": "https://www.newbalance.com/dw/image/v2/AAGI_PRD/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dwb7046b12/images/page-designer/2024/April/16662_Comp_F_Image2.jpg",
+        "description": "Description for product 9",
+        "categories": ["automotive", "tools"],
+        "price": 35.50
+    },
+    {
+        "id": "10",
+        "img": "https://images.asics.com/is/image/asics/1011B547_400_SR_RT_GLB?$sfcc-product$",
+        "description": "Description for product 10",
+        "categories": ["toys", "kids"],
+        "price": 25.00
+    },
+    {
+        "id": "11",
+        "img": "https://5.imimg.com/data5/SELLER/Default/2022/4/KC/NO/WV/151793842/new-product.jpeg",
+        "description": "Description for product 11",
+        "categories": ["kitchen", "appliances"],
+        "price": 99.99
+    }
+]
